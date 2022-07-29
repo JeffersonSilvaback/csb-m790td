@@ -13,7 +13,7 @@
   },
   "keywords": ["static", "template", "codesandbox"],
   "author": "Ives van Hoorne",
-  "license": "PUT",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/codesandbox-app/static-template/issues"
   },
